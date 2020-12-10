@@ -1,0 +1,126 @@
+html{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP0AAADHCAMAAADlCqUFAAAAA1BMVEUCAloddjPcAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8GxXIAARdOqd4AAAAASUVORK5CYII=);
+}
+
+#container{
+
+    text-align: center;
+    font-family:"Roboto";
+    ;
+    font-size: 25px;
+    width: 900px;
+    height: 2000px;
+    background-color:skyblue;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+
+ul {
+list-style-type: none;
+text-align: center;
+
+
+}
+
+.recherche a:link{
+    color: red;
+}
+    
+.recherche a:visited{
+    color: rgb(16, 103, 161);
+}
+
+.recherche a:hover{
+    text-transform: uppercase;
+    color: khaki;
+    letter-spacing: 3px;
+}
+
+.recherche li{
+    display: inline;
+    
+}
+
+.recherche{
+    background-color: rgb(48, 170, 226);
+    margin-top: -32px;
+   
+}
+
+.Banniere{
+    background-color: rgb(48, 170, 226);
+    margin: 0 auto;
+    margin-top: 50px ;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 15px;
+}
+
+h3{
+    font-size: 40px;
+    background-color: rgb(48, 170, 226);
+    height: 60px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: auto;
+    border-radius: 40px;
+}
+  
+
+.informations{
+    font-size: 25px;
+    margin: 0 auto;
+    color:rgb(0, 0, 0);
+    text-align: center;
+   
+
+}
+
+h4{
+    font-size: 40px;
+    background-color:rgb(48, 170, 226);
+    height: 50px;
+    width: 350px;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+.école {
+
+    
+    margin: 0 auto;
+    letter-spacing: 1px;
+
+}
+
+h2{
+    background-color: rgb(48, 170, 226);
+    height: 50px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 45px;
+}
+
+h5{
+
+    font-size: 40px;
+    background-color: rgb(48, 170, 226);
+    hei
+}
+
+img {
+
+
+
+    height: 150px;
+    width:130px;
+    
+    
+
+
+}
+
+
+
+
+
